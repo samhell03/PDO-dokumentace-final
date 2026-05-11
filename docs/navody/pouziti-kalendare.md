@@ -1,49 +1,69 @@
-# Použití kalendáře
+# Kalendář
 
-Tento návod popisuje, jak pracovat s kalendářem výletů.
+Tato stránka slouží k přehlednému zobrazení všech Vašich výletů.
 
----
+Dostanete se na ni přes hlavní menu aplikace, konkrétně pomocí záložky **Kalendář**.
 
-## Zobrazení kalendáře
-
-1. V hlavním menu klikněte na položku **„Kalendář“**
-2. Zobrazí se měsíční přehled výletů
-
-V kalendáři jsou jednotlivé výlety zobrazeny přímo u konkrétních dnů.
+![Kalendář](../obrazky/KalendarMenu.png)
 
 ---
 
-## Orientace v kalendáři
+## Rozvržení stránky
 
-Uživatel se může v kalendáři pohybovat pomocí ovládacích prvků:
+Na stránce se nachází měsíční kalendář, ve kterém jsou jednotlivé výlety zobrazeny přímo u odpovídajících dnů.
 
-- tlačítka pro přechod na předchozí měsíc
-- tlačítka pro přechod na následující měsíc
-- tlačítka **„Dnes“**, které zobrazí aktuální měsíc
+![Kalendář](../obrazky/KalendarStranka.png)
 
 ---
 
-## Zobrazení výletů
+### Zobrazení výletů v kalendáři
 
-Každý výlet je v kalendáři zobrazen jako barevný štítek.
+Každý výlet je v kalendáři zobrazen formou barevného štítku s jeho názvem.
 
-Pokud výlet trvá více dní, zobrazí se u všech dnů, do kterých spadá.
-
-![Kalendář výletů](../obrazky/kalendar.png)
-
----
-
-## Detail dne
-
-1. Klikněte na konkrétní den v kalendáři
-2. Zobrazí se seznam výletů, které do tohoto dne spadají
-
-Uživatel tak může rychle zjistit, jaké výlety jsou naplánovány.
+- pokud výlet trvá více dní, zobrazí se u všech dní, do kterých spadá
+- díky tomu snadno uvidíte, kdy máte naplánované cesty
 
 ---
 
-## Co se děje na pozadí
+### Navigace v kalendáři
 
-Kalendář pracuje s daty výletů uloženými v databázi.
+V horní části kalendáře přepínejte mezi jednotlivými měsíci:
 
-Na základě data začátku a konce systém automaticky určuje, ve kterých dnech se má výlet zobrazit.
+- **šipka doleva** – zobrazte předchozí měsíc
+- **šipka doprava** – zobrazte následující měsíc
+- tlačítko **Dnes** – vraťte se na aktuální měsíc
+
+![Kalendář](../obrazky/OvladaniKalendare.png)
+
+---
+
+### Pravý panel (přehled)
+
+V **pravé části** stránky se nachází doplňující informace k Vašim výletům:
+
+1. **Výletů celkem** - počet všech výletů
+2. **Legendu výletů** - přehled konkrétních výletů a jejich termínů
+3. **Nejbližší cesty**
+
+![Kalendář](../obrazky/KalendarVysvetlivky.png)
+
+---
+
+### Detail dne
+
+Klikněte na **konkrétní den** a zobrazte přehled výletů, které do tohoto dne spadají.
+
+![Kalendář](../obrazky/DetailKalendareVylet.png)
+
+---
+
+!!! tip "Tip"
+    Pomocí kalendáře si rychle ověřte, zda se Vám výlety nepřekrývají.
+
+---
+
+### Otevření detailu výletu
+
+Klikněte na **konkrétní výlet** v kalendáři a přejděte na -> [Detail výletu](detail-vyletu.md)
+
+![Kalendář](../obrazky/KliknutiNaDetailVyletu.png)

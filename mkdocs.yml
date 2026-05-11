@@ -6,7 +6,6 @@ theme:
 
   features:
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - content.code.copy
 
@@ -40,24 +39,20 @@ nav:
 
   - Aplikace:
       - Registrace a přihlášení: navody/registrace-a-prihlaseni.md
-
+      - Navigace:
+              - Domů: navody/domovska-obrazovka.md
+              - Moje výlety: navody/moje-vylety.md
+              - Kalendář: navody/pouziti-kalendare.md
+              - Statistiky: navody/zobrazeni-statistik.md
+              - Šablony balíčků: navody/import-balicku.md
+              - Profil: navody/uprava-profilu.md
       - Práce s výlety:
           - Vytvoření výletu: navody/vytvoreni-vyletu.md
+          - Detail výletu: navody/detail-vyletu.md
           - Úprava výletu: navody/uprava-vyletu.md
           - Smazání výletu: navody/smazani-vyletu.md
 
-      - Navigace:
-          - Domů: navody/domovska-obrazovka.md
-          - Moje výlety: navody/moje-vylety.md
-          - Kalendář: navody/pouziti-kalendare.md
-          - Statistiky: navody/zobrazeni-statistik.md
-          - Šablony balíčků: navody/sablona-balicku.md
-          - Profil: navody/uprava-profilu.md
 
-      - Práce s balíčky:
-          - Co jsou to balíčky?: navody/prace-s-balicky.md
-          - Práce s balíčky: navody/prace-s-balicky.md
-          - Import balíčku: navody/import-balicku.md
-          - Notifikace: navody/sledovani-notifikaci.md
+
 
 

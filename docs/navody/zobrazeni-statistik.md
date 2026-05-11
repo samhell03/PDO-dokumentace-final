@@ -1,72 +1,68 @@
-# Zobrazení statistik
+# Statistiky
 
-## Kdy tento postup použít
+Na této stránce najdete několik grafů, které zobrazují Váš cestovní přehled.
 
-Tento postup je vhodný tehdy, když chce uživatel získat souhrnný přehled o svých uložených výletech a lépe porozumět svým cestovatelským aktivitám.
+Dostanete se na ni přes hlavní menu aplikace, konkrétně pomocí záložky **Statistiky**.
 
-Statistiky slouží především jako nástroj pro zpětné vyhodnocení již uskutečněných cest, ale mohou být užitečné i při plánování budoucích výletů.
+![Statistiky](../obrazky/MojeStatistikyMenu.png)
 
-Uživatel může pomocí statistik rychle zjistit například, jak často cestuje, jak dlouhé výlety obvykle podniká nebo jaké destinace navštěvuje.
+---
 
-## Princip fungování statistik
+## Rozvržení stránky
 
-Statistická část aplikace zpracovává data uložená v jednotlivých výletech a převádí je do přehledné podoby.
-Výsledkem jsou souhrnné informace, které umožňují rychlou orientaci v uložených datech.
+![Statistiky](../obrazky/Statistiky.png)
 
-Statistiky mohou být zobrazeny například formou číselných přehledů, seznamů nebo grafických vizualizací, které usnadňují jejich interpretaci.
+---
 
-## Co lze ve statistikách sledovat
+### Celkový přehled
 
-Statistická část aplikace může zobrazovat různé typy údajů, které se vztahují k uloženým výletům.
+V **pravé horní části** stránky (červeně zvýrazněná oblast) sledujte celkový počet výletů.
 
-Mezi nejčastější patří:
+---
 
-- celkový počet vytvořených výletů,
-- rozdělení výletů podle časového období,
-- přehled navštívených států nebo lokalit,
-- průměrná nebo celková délka výletů,
-- další související ukazatele vycházející z dostupných dat.
+### Základní statistiky
 
-Konkrétní podoba statistik závisí na implementaci aplikace a dostupných údajích.
+Hned **pod ním** (oranžově zvýrazněná oblast) se nachází souhrn základních údajů:
 
-## Postup
+- **Celkový počet výletů** - kolik máte celkem výletů
+- **Různých států** - kolik různých států jste navštívili
+- **Navštívených států EU** - kolik z nich je v rámci EU
+- **Průměrná délka výletu** - jak dlouhé jsou průměrně Vaše cesty
 
-1. Otevřete sekci aplikace určenou pro zobrazení statistik.
-2. Prohlédněte si dostupné přehledy a souhrnné údaje.
-3. Zaměřte se na informace, které jsou pro vás relevantní.
-4. Porovnejte jednotlivé údaje podle potřeby.
+---
 
-## Interpretace výsledků
+### Přehled cest
 
-Při práci se statistikami je důležité správně interpretovat zobrazené údaje.
-Statistiky poskytují souhrnný pohled na data, ale jejich význam závisí na kontextu.
+Ve **střední části** stránky (zeleně zvýrazněná oblast) najdete podrobnější informace:
 
-Uživatel může například:
+- **Cesty v Evropě** - kolik procent Evropy jste navštívili
+- **Dokončené výlety** - kolik výletů máte:
+    - proběhlých
+    - probíhajících
+    - plánovaných
 
-- sledovat vývoj své aktivity v čase,
-- porovnávat jednotlivé výlety mezi sebou,
-- identifikovat opakující se vzorce v cestování,
-- lépe plánovat budoucí cesty na základě minulých zkušeností.
+---
 
-## Výsledek
+### Zajímavosti o výletech
 
-Po otevření statistické sekce získá uživatel přehled o svém cestování a může si vytvořit ucelený obraz o svých aktivitách.
+**Níže** (modře zvýrazněná oblast) najdete:
 
-Díky tomu se lépe orientuje v rozsahu a charakteru uložených výletů a může efektivněji pracovat s daty v aplikaci.
+- **Nejčastější destinace** - kam jezdíte nejčastěji
+- **Nejdelší cesta** - jak dlouho trval Váš nejdelší výlet
+- **Následující výlet** - jaký je nejbližší plánovaný výlet
 
-## Poznámky a doporučení
+---
 
-Statistiky jsou závislé na datech, která uživatel do aplikace zadá.
-Čím přesnější a úplnější údaje výlety obsahují, tím hodnotnější budou i výsledné statistiky.
+### Detailní statistiky
 
-Je proto vhodné:
+Ve **spodní části** stránky (fialově zvýrazněná oblast) najdete přehledy:
 
-- zadávat kompletní informace o výletech,
-- pravidelně aktualizovat údaje,
-- využívat statistiky jako doplňkový nástroj pro plánování.
+- **Nejnavštěvovanější státy** - které státy navštěvujete nejčastěji
+- **Cestování podle ročních období** - v jakém ročním období nejvíce cestujete
+- **Cestování dle měsíců** - počet výletů v jednotlivých měsících
+- **Cestování dle roků** - počet výletů v jednotlivých letech
 
-## Shrnutí
+---
 
-Zobrazení statistik umožňuje uživateli získat souhrnný přehled o jeho výletech a lépe porozumět vlastním cestovatelským návykům.
-
-Statistiky rozšiřují základní funkce aplikace o analytický pohled a zvyšují její užitnou hodnotu.
+!!! tip "Tip"
+    Sledujte své statistiky průběžně - čím více výletů přidáte, tím zajímavější a přesnější přehled získáte!

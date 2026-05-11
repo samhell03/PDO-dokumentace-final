@@ -2,7 +2,7 @@
 
 Balíčky jsou doplňkové funkce, které si můžete přidat ke svému výletu.
 
-Jednoduše řečeno – rozšiřují možnosti výletu a pomáhají vám s jeho plánováním.
+Jednoduše řečeno - rozšiřují možnosti výletu a pomáhají Vám s jeho plánováním.
 
 ---
 
@@ -10,7 +10,7 @@ Jednoduše řečeno – rozšiřují možnosti výletu a pomáhají vám s jeho 
 
 Slouží k tomu, abyste si mohli výlet přizpůsobit podle svých potřeb.
 
-Každý balíček přidává do výletu určitou funkcionalitu, například informace nebo nástroje, které se vám mohou hodit při cestování.
+Každý balíček přidává do výletu určitou funkcionalitu, například informace nebo nástroje, které se Vám mohou hodit při cestování.
 
 ---
 

@@ -4,13 +4,13 @@
 
 Tato dokumentace popisuje webovou aplikaci určenou pro plánování, evidenci a správu výletů vytvořenou v rámci bakalářské práce na Technické univerzitě v Liberci.
 
-Aplikace umožňuje uživatelům vytvářet jednotlivé výlety, ukládat k nim základní informace o destinaci a termínu, rozšiřovat je pomocí doplňkových balíčků a sledovat důležité informace, jako jsou notifikace nebo statistiky.
+Aplikace umožňuje vytvářet výlety, ukládat k nim základní informace o destinaci a termínu, rozšiřovat je pomocí doplňkových balíčků a sledovat důležité informace, jako jsou notifikace nebo statistiky.
 
-Hlavním cílem aplikace je nabídnout uživateli jednotné a přehledné prostředí, ve kterém může své cesty efektivně organizovat, a to jak ve fázi plánování, tak i během samotného cestování.
+Hlavním cílem aplikace je nabídnout jedno přehledné místo, kde můžete své cesty jednoduše organizovat - jak při plánování, tak i během samotného cestování.
 
 ---
 
-## Pro koho je dokumentace určena
+## Pro koho je dokumentace určena?
 
 Dokumentace je určena především běžným uživatelům aplikace.
 
@@ -18,63 +18,82 @@ Nepředpokládá se znalost technických detailů. Text je zaměřen na praktick
 
 ---
 
-## Hlavní funkce aplikace
+## Co aplikace umožňuje
 
-Aplikace umožňuje:
+Pomocí aplikace můžete:
 
-- registraci a přihlášení uživatele
-- vytváření, úpravu a mazání výletů
-- správu balíčků připojených k výletu
-- import balíčků do existujícího výletu
-- sledování notifikací
-- práci s kalendářem
-- zobrazení statistik
-- správu uživatelského profilu
+- vytvořit účet a přihlásit se → [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
+- vytvořit nový výlet → [Vytvoření výletu](navody/vytvoreni-vyletu.md)
+- upravit nebo smazat výlet → [Úprava výletu](navody/uprava-vyletu.md) / [Smazání výletu](navody/smazani-vyletu.md)
+- spravovat své výlety → [Moje výlety](navody/moje-vylety.md)
+- zobrazit výlety v kalendáři → [Kalendář](navody/pouziti-kalendare.md)
+- sledovat statistiky → [Statistiky](navody/zobrazeni-statistik.md)
+- pracovat s balíčky → [Šablony balíčků](navody/sablony-balicku.md)
+- upravit svůj profil nebo změnit heslo → [Profil](navody/uprava-profilu.md)
+
+---
+
+## Rychlá pomoc
+
+Potřebujete rychle něco najít?
+
+- vytvoření účtu -> [Registrace](navody/registrace-a-prihlaseni.md#registrace)
+- přihlášení -> [Přihlášení](navody/registrace-a-prihlaseni.md#prihlaseni)
+- změna hesla -> [Změna hesla](navody/uprava-profilu.md)
+- vytvoření výletu -> [Vytvoření výletu](navody/vytvoreni-vyletu.md)
+- přidání balíčku -> [Šablony balíčků](navody/sablony-balicku.md)
 
 ---
 
 ## Struktura dokumentace
 
-Dokumentace je rozdělena do následujících částí:
+Dokumentace je rozdělena do několika částí, které na sebe logicky navazují.
 
-### Koncept
+### Základní pojmy
 
-Tato část vysvětluje základní principy aplikace, například co představuje výlet, balíček nebo notifikace a jak spolu jednotlivé části systému souvisí.
+V této části se seznamte se základními pojmy aplikace.
 
-### Návody
-
-Sekce obsahuje konkrétní pracovní postupy krok za krokem pro práci s aplikací. Jednotlivé návody jsou doplněny obrázky pro lepší orientaci.
-
----
+- [Co je výlet?](koncept/vylet.md)
+- [Co jsou balíčky?](koncept/balicky.md)
 
 ---
 
-## Spuštení aplikace
+### Aplikace
+
+Tato část obsahuje praktické návody pro práci s aplikací.
+
+Najdete zde postupy, krok za krokem::
+
+- [Registraci a přihlášení](navody/registrace-a-prihlaseni.md)
+- [Vytvoření](navody/vytvoreni-vyletu.md), [úprava](navody/uprava-vyletu.md), [smazání výletu](navody/smazani-vyletu.md)
+- [Používání kalendáře](navody/pouziti-kalendare.md)
+- [Sledování statistik](navody/zobrazeni-statistik.md)
+- [Změna uživatelského jména](navody/uprava-profilu.md), [změna hesla](navody/uprava-profilu.md)
+
+Jednotlivé návody jsou doplněny obrázky pro lepší orientaci.
+
+---
+
+## Spuštění aplikace
 
 Aplikace je dostupná na následujícím odkazu:
 [Vstoupit do aplikace](https://muj-planovac-vyletu.vercel.app)
 
-Ocitnete se na úvodní obrazovce. Stránka slouží jako výchozí bod a poskytuje základní přehled o tom, co aplikace nabízí a jak ji začít používat.
+Po otevření se ocitnete na **Úvodní stránce**, která slouží jako výchozí bod pro práci s aplikací.
 
 ![Úvodní stránka aplikace](obrazky/UvodniStranka.png)
 
 ---
 
-Uprostřed se nachází úvodní text, který stručně popisuje účel aplikace a možnosti využití.
+Uprostřed se nachází úvodní text, který stručně popisuje účel aplikace.
 
-Pod tímto textem je umístěna výzva k zahájení práce s aplikací (zeleně zvýrazněná oblast).
-Sekce uživatele navádí k tomu, aby se nejprve přihlásil nebo zaregistroval prostřednictvím menu.
+**Pod tímto textem** (zeleně zvýrazněná oblast) je umístěna výzva, která Vás navede k přihlášení nebo registraci.
 
-V levé horní části obrazovky se nachází tlačítko pro otevření menu (zeleně zvýrazněná oblast).
+V **levé horní** části stránky se nachází tlačítko pro otevření menu.
 
-
-Pro přihlášení nebo registraci jej otevřete a pokračujte dle návodu:
-
+Otevřete menu a pokračujte dle návodu:
 → [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
 
 ---
 
-V pravé části obrazovky (žlutě zvýrazněná oblast) je zobrazen přehled hlavních funkcí aplikace.
-
-
-
+V **pravé části** stránky (žlutě zvýrazněná oblast) se nachází přehled hlavních funkcí aplikace.

@@ -10,49 +10,46 @@ K vytvoření nového výletu se můžete dostat dvěma způsoby:
 
 ![Kde najít formulář pro vytvoření výletu](../obrazky/MoznostiVytvoreniVyletu.png)
 
-- **Z domovské stránky** – tlačítko pro vytvoření výletu je umístěno v horní části obrazovky (oranžově zvýrazněná oblast)
-
-- **Ze stránky „Moje výlety“** – tlačítko se nachází v pravé části stránky (modře zvýrazněná oblast)
+- **Z domovské stránky** (oranžově zvýrazněná oblast) – tlačítko pro vytvoření výletu se nachází v horní části stránky
+- **Ze stránky Moje výlety** (modře zvýrazněná oblast) – tlačítko se nachází v pravé horní části stránky
 
 ---
 
 ## 2. Vyplnění formuláře
 
-Ať už zvolíte jakýkoliv způsob, v obou případech se zobrazí stejný formulář.
+Ať už zvolíte jakýkoliv způsob, zobrazí se stejný formulář.
 
 Vyplňte jednotlivá pole:
 
 - **Název cesty** – zadejte název, pod kterým výlet snadno poznáte
-- **Datum od** – vyberte den, kdy Váš výlet začíná
+- **Datum od** – vyberte den, kdy výlet začíná
 - **Datum do** – zadejte datum návratu
 - **Země** – vyberte stát, do kterého se chystáte
 - **Město** – zadejte konkrétní město
 
+Po vyplnění těchto údajů pokračujte níže.
+
 ![Formulář pro vytvoření výletu](../obrazky/NaplanovatVylet01.png)
 
 !!! tip "Tip"
-    Doporučujeme zadat co nejpřesnější údaje o destinaci (stát a město), aby bylo možné správně zobrazit počasí a polohu na mapě.
-
-Po vyplnění základních údajů pokračujte níže.
+    Zadejte co nejpřesnější údaje o destinaci (stát a město), aby bylo možné správně zobrazit počasí a polohu na mapě.
 
 - **Kategorie výletu** – vyberte typ výletu, který nejlépe odpovídá Vašemu plánu
-
 - **Balíčky pro výlet** – zvolte doplňkové funkce, které chcete využívat
 
     - **Počasí** – zobrazí předpověď počasí a časové pásmo
     - **Notifikace** – upozornění související s výletem
     - **Zabalit** – checklist věcí, které si vzít s sebou
 
-- *Vybrat vše – aktivuje všechny dostupné balíčky*
-- *Obnovit doporučení – nastaví balíčky podle zvolené kategorie*
+- *Vybrat vše* – aktivujte všechny dostupné balíčky
+- *Obnovit doporučení* – nastavte balíčky podle zvolené kategorie
 
 ![Formulář pro vytvoření výletu](../obrazky/NaplanovatVylet02.png)
 
-!!! info "K čemu vlastně kategorie a balíčky slouží?"
+!!! info "K čemu slouží kategorie a balíčky?"
     Výběr kategorie a balíčků ovlivňuje, jaké funkce budou ve výletu dostupné.
 
     Některé balíčky se mohou automaticky doporučit podle typu výletu.
-
 
 ---
 
@@ -72,9 +69,9 @@ Pokud některý údaj není správný, aplikace Vás na to upozorní a výlet ne
 
 Možná jste si všimli, že formulář obsahuje také souhrn zadaných informací.
 
-V horní části (oranžově zvýrazněná oblast) se zobrazuje rychlý přehled - název výletu, destinace a délka cesty.
+V **horní části** formuláře (oranžově zvýrazněná oblast) se zobrazuje rychlý přehled – název výletu, destinace a délka cesty.
 
-Ve spodní části (modře zvýrazněná oblast) je pak detailnější shrnutí všech zadaných údajů.
+V **dolní části** formuláře (modře zvýrazněná oblast) se nachází detailnější shrnutí všech zadaných údajů.
 
 ![Vytvořit výlet](../obrazky/SouhrnFormulareProVytvoreniVyletu.png)
 
@@ -82,8 +79,8 @@ Ve spodní části (modře zvýrazněná oblast) je pak detailnější shrnutí 
 
 ## 4. Uložení výletu
 
-Po vyplnění formuláře klikněte na tlačítko **Vytvořit výlet**.
+Po vyplnění všech údajů klikněte na tlačítko **Vytvořit výlet**.
 
 ![Vytvořit výlet](../obrazky/VytvoritVylet.png)
 
-Své vytvořené výlety najdete na stránce → [Moje výlety](moje-vylety.md)
+Vytvořené výlety následně najdete na stránce → [Moje výlety](moje-vylety.md)

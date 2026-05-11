@@ -6,7 +6,7 @@ V této části si ukážeme, jak odstranit výlet z aplikace.
 
 ## 1. Otevření možnosti smazání
 
-Nejprve přejděte na stránku → [Moje výlety](moje-vylety.md)
+Nejprve přejděte na stránku -> [Moje výlety](moje-vylety.md)
 
 U vybraného výletu klikněte na ikonu **smazat** (koš).
 

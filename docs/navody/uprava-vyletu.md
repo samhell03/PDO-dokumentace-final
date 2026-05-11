@@ -6,7 +6,7 @@ V této části si ukážeme, jak upravit již vytvořený výlet.
 
 ## 1. Otevření úpravy výletu
 
-Nejprve přejděte na stránku → [Moje výlety](moje-vylety.md)
+Nejprve přejděte na stránku -> [Moje výlety](moje-vylety.md)
 
 U vybraného výletu klikněte na ikonu **upravit** (tužka).
 

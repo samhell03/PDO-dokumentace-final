@@ -2,7 +2,7 @@
 
 Výlet je úplný základ celé aplikace.
 
-Představte si ho jednoduše, jako jednu vaši cestu, kterou si v aplikaci uložíte – například dovolenou, víkendový pobyt nebo třeba pracovní cestu.
+Představte si ho jednoduše, jako jednu vaši cestu, kterou si v aplikaci uložíte - například dovolenou, víkendový pobyt nebo třeba pracovní cestu.
 
 ---
 
@@ -13,8 +13,12 @@ K vytvoření výletu slouží formulář, kam zadáváte základní informace o
 Konkrétně jde o:
 
 - název výletu
-- destinaci
 - termín
+- destinaci
+- město
+- kategorie výletu
+- balíčky
+
 
 ---
 
@@ -32,7 +36,7 @@ Jakmile ho vytvoříte, můžete k němu přidávat další funkce v podobě tzv
 
 ## Jak funguje?
 
-Každý výlet je uložený zvlášť a patří jen vám.
+Každý výlet je uložený zvlášť a patří jen Vám.
 
 To znamená, že:
 

@@ -1,83 +1,67 @@
-# Úprava profilu
+# Profil
 
-## Kdy tento postup použít
+Na této stránce spravujte svůj uživatelský účet.
 
-Tento postup je vhodný v případě, kdy chce uživatel změnit nebo aktualizovat své osobní údaje uložené v aplikaci.
+Dostanete se sem přes hlavní menu aplikace, konkrétně pomocí záložky **Profil**.
 
-Úprava profilu se využívá například při změně e-mailu, aktualizaci hesla nebo při úpravě dalších informací spojených s uživatelským účtem.
+![Profil](../obrazky/ProfilMenu.png)
 
-## Předpoklady
+---
 
-Před provedením úpravy profilu musí být splněny následující podmínky:
+## Rozvržení stránky
 
-- uživatel musí být přihlášen,
-- musí mít vytvořený uživatelský účet,
-- musí mít přístup ke stránce profilu.
+Stránka je rozdělena do několika sekcí.
 
-Bez splnění těchto podmínek není možné profil upravovat.
+![Profil](../obrazky/ProfilStarnak.png)
 
-## Princip úpravy profilu
+---
 
-Profil představuje soubor údajů, které identifikují uživatele v systému.
-Úprava profilu probíhá prostřednictvím formuláře, ve kterém jsou zobrazeny aktuální informace.
+### Informace o účtu
 
-Uživatel může tyto údaje změnit a následně uložit.
-Po uložení se změny projeví v rámci celého systému a ovlivní další práci s aplikací, například přihlašování.
+V **levé části** stránky (oranžově zvýrazněná oblast) se zobrazují základní informace o Vašem účtu:
 
-## Jaké údaje lze upravit
+- **Jméno** – uživatelské jméno
+- **E-mail** – e-mail, pod kterým jste přihlášeni
+- **Členem od** – datum, kdy jste se do aplikace zaregistrovali
 
-V rámci profilu může uživatel upravovat různé typy údajů v závislosti na implementaci aplikace.
+---
 
-Typicky se jedná o:
+### Úprava jména
 
-- e-mailovou adresu,
-- heslo,
-- případně další osobní nebo kontaktní údaje.
+Klikněte na ikonu **tužky**.
+Proveďte potřebnou změnu a potvrďte ji tlačítkem **Uložit**.
 
-Konkrétní rozsah upravitelných údajů závisí na možnostech aplikace.
+![Profil](../obrazky/ZmenaJmena.png)
 
-## Postup
+---
 
-1. Otevřete sekci aplikace určenou pro uživatelský profil.
-2. Zobrazte aktuální údaje profilu.
-3. Proveďte požadované změny.
-4. Zkontrolujte správnost zadaných údajů.
-5. Uložte změny.
+### Změna hesla
 
-## Výsledek
+V **pravé části** stránky (zeleně zvýrazněná oblast) použijte formulář pro změnu hesla.
 
-Po uložení změn se aktualizované údaje uloží do systému a projeví se při dalším používání aplikace.
+![Profil](../obrazky/ZmenaHesla.png)
 
-Uživatel tak má svůj profil aktuální a může pokračovat v práci bez omezení.
+Vyplňte:
 
-## Možné chyby při úpravě
+- **Aktuální heslo** – současné heslo
+- **Nové heslo** – nové heslo
+- **Potvrzení nového hesla** – nové heslo znovu
 
-Při úpravě profilu může dojít k několika běžným problémům:
+Klikněte na tlačítko **Poslat ověřovací kód**.
 
-- zadání neplatného formátu e-mailu,
-- zadání slabého nebo neplatného hesla,
-- nevyplnění povinných údajů.
+Na e-mail Vám přijde kód, kterým změnu potvrdíte.
 
-V takových případech aplikace obvykle zobrazí upozornění a vyzve uživatele k opravě.
+---
 
-## Bezpečnostní doporučení
+!!! warning "Důležité"
+    Zvolte nové heslo tak, aby splňovalo bezpečnostní požadavky (minimální délka, velké písmeno, číslo nebo speciální znak).
 
-Při úpravě profilu je důležité dbát na bezpečnost uživatelského účtu.
+---
 
-Doporučuje se zejména:
+### Používáte přihlášení přes Google?
 
-- používat silné a unikátní heslo,
-- pravidelně heslo měnit,
-- nesdílet přihlašovací údaje s dalšími osobami.
+Změnu hesla v aplikaci neprovádějte. Heslo je spravováno externě.
 
-## Poznámky a doporučení
+Změňte jej přímo v nastavení svého Google účtu.
 
-Údaje v profilu by měly být aktuální a správné, protože mohou ovlivňovat další funkce aplikace.
-
-Například změna e-mailu může ovlivnit přihlašování nebo komunikaci se systémem.
-
-## Shrnutí
-
-Úprava profilu umožňuje uživateli aktualizovat své osobní údaje a udržovat účet v aktuálním stavu.
-
-Tato funkce je důležitá pro správné fungování aplikace a bezpečné používání uživatelského účtu.
+![Profil](../obrazky/ProfilGoogle.png)

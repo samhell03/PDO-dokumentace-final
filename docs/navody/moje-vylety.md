@@ -2,67 +2,72 @@
 
 Na této stránce najdete přehled všech Vašich vytvořených výletů.
 
-Dostanete se na ni přes hlavní menu aplikace, konrétně sekce **Moje výlety**
+Dostanete se na ni přes hlavní menu aplikace, konkrétně pomocí záložky **Moje výlety**.
 
 ![Menu](../obrazky/SekceMojeVylety.png)
 
 ---
+
 ## Rozvržení stránky
 
-Zobrazí se Vám seznam výletů a několik užitečných funkcí.
+Stránka zobrazuje seznam výletů a několik užitečných funkcí.
 
 ![Moje výlety](../obrazky/PopisMojeVylety.png)
 
+### Naplánovat výlet
 
-V **pravé horní části (zeleně zvýrazněná oblast)** je umístěno tlačítko **Nový výlet** -> [Vytvoření výletu](vytvoreni-vyletu.md)
+V **pravé horní části** stránky (zeleně zvýrazněná oblast) se nachází tlačítko **Nový výlet**.
+ Klikněte na něj a přejděte na -> [Vytvoření výletu](vytvoreni-vyletu.md)
+
+---
 
 ### Filtrování výletů
 
-Pod nadpisem, **(oranžově zvýrazněná oblast)** můžete výlety rychle filtrovat podle jejich stavu:
+**Pod nadpisem** (oranžově zvýrazněná oblast) můžete výlety filtrovat podle jejich stavu:
 
 - **Aktivní celkem** – zobrazí všechny aktuální výlety
 - **Nadcházející** – výlety, které teprve začnou
 - **Probíhající** – výlety, které právě probíhají
 - **Proběhlé** – již ukončené výlety
 
-Kliknutím na jednotlivé položky si tak zobrazíte pouze vybranou skupinu výletů.
+Klikněte na jednotlivé položky a zobrazte si pouze vybranou skupinu výletů.
 
 ---
+
 ### Vyhledávání a řazení výletů
 
-Ve **střední části stránky (modře zvýrazněná oblast)** se nachází:
+Ve **střední části** stránky (modře zvýrazněná oblast) se nachází:
 
-- **Vyhledávání** – umožňuje hledat výlety podle názvu, země nebo kódu
-- **Filtr** – můžete zobrazit například pouze aktivní výlety nebo jinou konkrétní skupinu
-- **Řazení** – výlety lze seřadit například podle data (od nejbližšího apod.)
+- **Vyhledávání** – vyhledejte výlet podle názvu, země nebo kódu
+- **Filtr** – zobrazte pouze vybranou skupinu výletů
+- **Řazení** – seřaďte výlety například podle data (od nejbližšího apod.)
 
 !!! tip "Tip"
-    Pokud máte více výletů, můžete je rychle procházet a vybírat podle destinace nebo termínu.
-
+    Máte více výletů? Vyhledejte je rychle podle destinace nebo termínu.
 
 ---
 
-Ve **spodní části (fialově zvýrazněná oblast)** se nachází seznam vašich výletů.
+Ve **spodní části** stránky (fialově zvýrazněná oblast) se nachází seznam Vašich výletů.
 
 ![Moje výlety](../obrazky/ZobrazeniVyletuVSekciMojeVylety.png)
 
 Každý výlet je zobrazen v samostatné kartě, která obsahuje:
 
 - **název výletu**
+- **aktuální stav**
 - **destinaci**
 - **termín**
-- **aktuální stav**
-- **kdy výlet začíná**
+- **za jak dlouho začíná**
 
-Na pravé straně karty **(červeně zvýrazněná oblast)** se nachází ikony:
+### Upravit nebo smazat výlet
 
--  **✏️** – úprava výletu
--  **🗑️** – smázání výletu
+Na **pravé straně** této karty (červeně zvýrazněná oblast) se nachází ikony:
+
+- **✏️** – klikněte na ikonu a přejděte na -> [Úprava výletu](uprava-vyletu.md)
+- **🗑️** – klikněte na ikonu a přejděte na -> [Smazání výletu](smazani-vyletu.md)
 
 ---
 
 ## Otevření detailu výletu
 
-Pokud kliknete na kartu vybraného výletu v seznamu, otevře se jeho detail.
-
-
+Klikněte na kartu vybraného výletu a otevřete jeho detail.
