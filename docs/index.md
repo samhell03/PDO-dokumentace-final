@@ -92,7 +92,7 @@ Uprostřed se nachází úvodní text, který stručně popisuje účel aplikace
 V **levé horní** části stránky se nachází tlačítko pro otevření menu.
 
 Otevřete menu a pokračujte dle návodu:
-→ [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
+-> [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
 
 ---
 
