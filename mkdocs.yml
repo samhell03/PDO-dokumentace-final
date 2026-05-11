@@ -47,10 +47,10 @@ nav:
               - Šablony balíčků: navody/import-balicku.md
               - Profil: navody/uprava-profilu.md
       - Práce s výlety:
-            - Vytvoření výletu: navody/vytvoreni-vyletu.md
-            - Detail výletu: navody/detail-vyletu.md
-            - Úprava výletu: navody/uprava-vyletu.md
-            - Smazání výletu: navody/smazani-vyletu.md
+              - Vytvoření výletu: navody/vytvoreni-vyletu.md
+              - Detail výletu: navody/detail-vyletu.md
+              - Úprava výletu: navody/uprava-vyletu.md
+              - Smazání výletu: navody/smazani-vyletu.md
 
 
 
