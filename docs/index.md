@@ -22,14 +22,14 @@ Nepředpokládá se znalost technických detailů. Text je zaměřen na praktick
 
 Pomocí aplikace můžete:
 
-- vytvořit účet a přihlásit se → [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
-- vytvořit nový výlet → [Vytvoření výletu](navody/vytvoreni-vyletu.md)
-- upravit nebo smazat výlet → [Úprava výletu](navody/uprava-vyletu.md) / [Smazání výletu](navody/smazani-vyletu.md)
-- spravovat své výlety → [Moje výlety](navody/moje-vylety.md)
-- zobrazit výlety v kalendáři → [Kalendář](navody/pouziti-kalendare.md)
-- sledovat statistiky → [Statistiky](navody/zobrazeni-statistik.md)
-- pracovat s balíčky → [Šablony balíčků](navody/sablony-balicku.md)
-- upravit svůj profil nebo změnit heslo → [Profil](navody/uprava-profilu.md)
+- vytvořit účet a přihlásit se -> [Registrace a přihlášení](navody/registrace-a-prihlaseni.md)
+- vytvořit nový výlet -> [Vytvoření výletu](navody/vytvoreni-vyletu.md)
+- upravit nebo smazat výlet -> [Úprava výletu](navody/uprava-vyletu.md) / [Smazání výletu](navody/smazani-vyletu.md)
+- spravovat své výlety -> [Moje výlety](navody/moje-vylety.md)
+- zobrazit výlety v kalendáři -> [Kalendář](navody/pouziti-kalendare.md)
+- sledovat statistiky -> [Statistiky](navody/zobrazeni-statistik.md)
+- pracovat s balíčky -> [Šablony balíčků](navody/sablony-balicku.md)
+- upravit svůj profil nebo změnit heslo -> [Profil](navody/uprava-profilu.md)
 
 ---
 

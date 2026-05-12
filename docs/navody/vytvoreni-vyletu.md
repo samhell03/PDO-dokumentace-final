@@ -83,4 +83,4 @@ Po vyplnění všech údajů klikněte na tlačítko **Vytvořit výlet**.
 
 ![Vytvořit výlet](../obrazky/VytvoritVylet.png)
 
-Vytvořené výlety následně najdete na stránce → [Moje výlety](moje-vylety.md)
+Vytvořené výlety následně najdete na stránce -> [Moje výlety](moje-vylety.md)

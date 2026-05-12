@@ -4,9 +4,9 @@ Abyste mohli aplikaci plnohodnotně používat, nejprve se přihlaste nebo si vy
 
 Máte několik možností, jak na to:
 
-- Nemáte ještě účet? → [Registrace](#registrace)
-- Už účet máte? → [Přihlášení](#prihlaseni)
-- Chcete využít Google účet? → [Přihlášení pomocí Google účtu](#google)
+- Nemáte ještě účet? -> [Registrace](#registrace)
+- Už účet máte? -> [Přihlášení](#prihlaseni)
+- Chcete využít Google účet? -> [Přihlášení pomocí Google účtu](#google)
 
 ---
 
